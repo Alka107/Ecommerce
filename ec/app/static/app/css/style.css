@@ -1,0 +1,50 @@
+.goodnessccont img{
+    width:100%
+}
+.buttermilk{
+    background-color: #fff; background-image: linear-gradient(#fff7ef, #fff);
+    background-color: -webkit-linear-gradient(#fff7ef, #fff);
+    background-color: -moz-linear-gradient(#fff7ef, #fff);
+    background-color: -ms-linear-gradient(#fff7ef, #fff);
+    background-color: -o-linear-gradient(#fff7ef, #fff);
+    padding: 50px 40px;
+    border:1px solid #efe8e1;
+    padding-bottom:20px;
+    
+}
+
+
+.smbg{
+    background-color: #fff;
+    background-image: linear-gradient(rgba(110, 69,143,0,1), #fff);
+    background-color: -webkit-linear-gradient(rgba(110, 69,143,0,1), #fff);
+    background-color: -moz-linear-gradient(rgba(110, 69,143,0,1), #fff);
+    background-color: -ms-linear-gradient(rgba(110, 69,143,0,1), #fff);
+    background-color: -o-linear-gradient(rgba(110, 69,143,0,1), #fff);
+}
+
+.curdbgpro{
+    background-color: #fff;
+    background-image: linear-gradient(rgba(10, 77,123,0,1), #fff);
+    background-color: -webkit-linear-gradient(rgba(10, 77,123,0,1), #fff);
+    background-color: -moz-linear-gradient(rgba(10, 77,123,0,1), #fff);
+    background-color: -ms-linear-gradient(rgba(100, 77, 123,0,1), #fff);
+    background-color: -o-linear-gradient(rgba(10, 77,123,0,1), #fff);
+    
+}
+
+.mlkpro{
+    color:#636362;
+    font-size: 22px;
+    line-height:22px;
+    margin-bottom:30px;
+    width:20%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.goodnessc a{
+    text-decoration: none;
+}
+
+
